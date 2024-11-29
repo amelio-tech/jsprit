@@ -15,3 +15,6 @@
 /.settings/s
 
 .editorconfig
+
+/jsprit-core/build
+/build/sonar-resolver/properties
